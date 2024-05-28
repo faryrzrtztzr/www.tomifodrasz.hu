@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Az én weboldalam</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            padding: 2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Üdvözöllek az én weboldalamon!</h1>
+    </header>
+    <section>
+        <p>Ez az én első weboldalam, amit a GitHub Pages segítségével hoztam létre.</p>
+    </section>
+</body>
+</html>
